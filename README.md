@@ -22,7 +22,7 @@ var args = {
 <br>
 
 <p align='center'>
-<a><img src='https://user-images.githubusercontent.com/7882308/35153984-75d997a6-fd63-11e7-8661-44f35bec3b67.png' width=350></a>
+<a><img src='https://user-images.githubusercontent.com/7882308/35153984-75d997a6-fd63-11e7-8661-44f35bec3b67.png' width=500></a>
 <br>
 </p>
 
@@ -34,7 +34,7 @@ var args = {
 
 ## Tools used
 
-⋅⋅* Node.js
-⋅⋅* Angular.js
-⋅⋅* Express
-⋅⋅* SOAP Webservice
+* Node.js
+* Angular.js
+* Express
+* SOAP Webservice
